@@ -90,13 +90,17 @@ All detected activities are recorded in `logs/activity.log` with precise timesta
 2025-12-28 20:38:57 - File/Folder Created - /path/to/file.txt
 2025-12-28 20:39:00 - File Modified - /path/to/file.txt
 ```
+---
 
 ## 🛡️ Security Disclaimer
 This tool is intended for defensive security monitoring. Protect your `config.json` file as it contains sensitivity email credentials (`chmod 600 config.json` is recommended).
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
 
 ## Author
 **Vision KC**<br>
